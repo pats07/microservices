@@ -1,0 +1,4 @@
+insert into exchange_value(ID,FROMCURRENCY,TOCURRENCY,CONVERSIONVALUE)
+values(1001,'USD','INR',65);
+insert into exchange_value(ID,FROMCURRENCY,TOCURRENCY,CONVERSIONVALUE)
+values(1002,'EUR','INR',75);
